@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shilpa, I bring a friendly & positive attitude wherever I go!
+- 👋 Hi, I’m Shilpa, I bring a friendly & positive attitude wherever I go.
 - 👀 my interests revolve around Data Science and Artificial Intelligence. 
 - 🌱 Currently navigating the exciting realms of Python and machine learning as part of my ongoing learning journey.
 - 💞️ I'm open to collaboration opportunities.
